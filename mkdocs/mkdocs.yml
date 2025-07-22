@@ -1,0 +1,10 @@
+site_name: Test-Doku
+dev_addr: "0.0.0.0:8080"
+site_author: "Dein Name"
+
+markdown_extensions:
+  - attr_list
+  - admonition
+
+nav:
+  - Willkommen: index.md
